@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://spotless-vibes-belfast.hello62802.chatgpt.site/sitemap.xml
